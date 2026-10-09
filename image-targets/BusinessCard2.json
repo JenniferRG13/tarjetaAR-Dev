@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 137,
+    "left": 0,
+    "width": 589,
+    "height": 785,
+    "isRotated": true,
+    "originalWidth": 589,
+    "originalHeight": 1061
+  },
+  "imagePath": "image-targets/BusinessCard2_luminance.png",
+  "metadata": null,
+  "name": "BusinessCard2",
+  "resources": {
+    "originalImage": "BusinessCard2_original.png",
+    "croppedImage": "BusinessCard2_cropped.png",
+    "thumbnailImage": "BusinessCard2_thumbnail.png",
+    "luminanceImage": "BusinessCard2_luminance.png"
+  },
+  "created": 1791574122053,
+  "updated": 1791574122053
+}
