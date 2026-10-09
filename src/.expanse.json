@@ -185,7 +185,7 @@
           "type": "asset",
           "asset": "assets/yo5.glb"
         },
-        "animationClip": "",
+        "animationClip": "mixamo.com.001",
         "loop": true
       },
       "name": "yo5.glb",
